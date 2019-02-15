@@ -1,0 +1,11 @@
+F:\LearnUnity\MoniRenShengServer\MoniRenShengServer\MoniRenShengServer\bin\Debug\netcoreapp2.1\MoniRenShengServer.deps.json
+F:\LearnUnity\MoniRenShengServer\MoniRenShengServer\MoniRenShengServer\bin\Debug\netcoreapp2.1\MoniRenShengServer.runtimeconfig.json
+F:\LearnUnity\MoniRenShengServer\MoniRenShengServer\MoniRenShengServer\bin\Debug\netcoreapp2.1\MoniRenShengServer.runtimeconfig.dev.json
+F:\LearnUnity\MoniRenShengServer\MoniRenShengServer\MoniRenShengServer\bin\Debug\netcoreapp2.1\MoniRenShengServer.dll
+F:\LearnUnity\MoniRenShengServer\MoniRenShengServer\MoniRenShengServer\bin\Debug\netcoreapp2.1\MoniRenShengServer.pdb
+F:\LearnUnity\MoniRenShengServer\MoniRenShengServer\MoniRenShengServer\obj\Debug\netcoreapp2.1\MoniRenShengServer.csprojAssemblyReference.cache
+F:\LearnUnity\MoniRenShengServer\MoniRenShengServer\MoniRenShengServer\obj\Debug\netcoreapp2.1\MoniRenShengServer.csproj.CoreCompileInputs.cache
+F:\LearnUnity\MoniRenShengServer\MoniRenShengServer\MoniRenShengServer\obj\Debug\netcoreapp2.1\MoniRenShengServer.AssemblyInfoInputs.cache
+F:\LearnUnity\MoniRenShengServer\MoniRenShengServer\MoniRenShengServer\obj\Debug\netcoreapp2.1\MoniRenShengServer.AssemblyInfo.cs
+F:\LearnUnity\MoniRenShengServer\MoniRenShengServer\MoniRenShengServer\obj\Debug\netcoreapp2.1\MoniRenShengServer.dll
+F:\LearnUnity\MoniRenShengServer\MoniRenShengServer\MoniRenShengServer\obj\Debug\netcoreapp2.1\MoniRenShengServer.pdb
