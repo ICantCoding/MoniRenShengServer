@@ -11,10 +11,10 @@ namespace TDFramework.Network
 
     public class ActorMessage
     {
-        public string msg;
-        public Packet packet;
-        public object obj;
-        public object obj1;
+        public string msg;          //ActorMessage可携带string消息
+        public Packet packet;       //ActorMessage可携带Packet
+        public object obj;          //ActorMessage可携带一个object参数
+        public object obj1;         //ActorMessage可携带第二个object参数
     }
 
     public class Actor

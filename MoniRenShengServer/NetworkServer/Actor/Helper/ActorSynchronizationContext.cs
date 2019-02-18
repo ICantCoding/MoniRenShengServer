@@ -48,8 +48,7 @@ namespace TDFramework.Network
         }
         private void Consume(object state)
         {
-            Thread.Sleep(3000);
-            Debug.Log("Consume Thread Id: " + Thread.CurrentThread.ManagedThreadId); //得知这是个子线程
+            //Debug.Log("Consume Thread Id: " + Thread.CurrentThread.ManagedThreadId); //得知这是个子线程
             //Consume会在指定的m_syncContext上下文的线程中执行
             var surroundContext = Current; //Current就是m_syncContext
             try
